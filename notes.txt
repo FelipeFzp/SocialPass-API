@@ -1,0 +1,40 @@
+PRIMEIRA ENTREGA
+    ---------- CATEGORIAS -----------
+    Saude
+        Alimentação
+    x	Academia ---
+        Nutricionismo
+    Tecnologia
+    x	Games ---
+    x	IA --- 
+    x	Programação ---
+
+    Tecnologia - null
+    Games - Tecnologia
+    IA - Tecnologia
+    Programação - Tecnologia
+    Saude - null
+    Alimentação - Saude
+    Academia - Saude
+    Nutricionsmo - Saude
+
+
+    ---------- TOP SEMANAL ---------
+    Conta todos acessos que tem updatedAt || createdAt dentro dos ultimos 7 dias
+    Após isso, ordena baseado nos counts
+    !! Começar query no cardAccess !!
+
+
+
+SEGUNDA ENTREGA
+    ---------- PERTO DE VOCÊ ----------
+    Só mostra essa categoria se o GPS estiver habilitado
+    Pedi no cadastro o endereço
+    deixar claro pro usuário que o endereço será divulgado
+    Usar Google places para pegar endereço (Igor tem componente pronto, vai me mandar)
+    Pegar coordenadas via GPS e calcular um raio (Igor tem o calculo pronto, vai me mandar)
+
+
+    --------- RECENTES --------
+    Buscar pelos acessos com meu user na collection de access ordenado pelo updatedAt DESC
+
